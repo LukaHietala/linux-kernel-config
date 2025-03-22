@@ -1,4 +1,4 @@
-Small .config file for linux kernel that is quite minimal and works in qemu wm with intel hardware. I made this just for me so this might not work on other hardware without tweaking.
+Small .config file for linux kernel that is quite minimal and works in qemu/kvm wm with intel hardware. I made this just for me so this might not work on other hardware without tweaking.
 
 #### Basic features:
 
